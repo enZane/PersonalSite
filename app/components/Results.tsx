@@ -1,5 +1,5 @@
 import { Estimate, validateEstimate } from "~/calculator"
-import InfoBlock from "./infoBlock"
+import InfoBlock from "./InfoBlock"
 
 export default function Results({ estimation }: { estimation: Estimate }) {
 
